@@ -1,0 +1,2 @@
+HTTP Port-80 is used for HTTP
+HTTPS is a secured HTTP version with strong encryption that passes through 443
